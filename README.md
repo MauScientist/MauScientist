@@ -49,6 +49,10 @@ I'm degree in Mathematics, master's degree in Applied Chemistry and a PhD in Sci
 ###
 
 
+<img src="https://raw.githubusercontent.com/MauScientist/MauScientist/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--## Projects
  
 [![project](https://img.shields.io/badge/Olivia-Project-blue?style=for-the-badge&logo=openproject&logoColor=white)](https://sciencemau.github.io/Olivia-Project/)
