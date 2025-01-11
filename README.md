@@ -46,14 +46,7 @@ I'm degree in Mathematics, master's degree in Applied Chemistry and a PhD in Sci
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MauScientist&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-
-<img src="https://raw.githubusercontent.com/MauScientist/MauScientist/output/snake.svg" alt="Snake animation"/>
-
-###
-
-###
 
 <!--## Projects
  
