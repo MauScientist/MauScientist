@@ -49,7 +49,9 @@ I'm degree in Mathematics, master's degree in Applied Chemistry and a PhD in Sci
 ###
 
 
-<img src="https://raw.githubusercontent.com/MauScientist/MauScientist/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MauScientist/MauScientist/output/snake.svg" alt="Snake animation"/>
+
+###
 
 ###
 
